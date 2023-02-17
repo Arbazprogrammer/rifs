@@ -1,1 +1,1 @@
-# rifs
+# RIFS-using JavaScript and Bootstrap
